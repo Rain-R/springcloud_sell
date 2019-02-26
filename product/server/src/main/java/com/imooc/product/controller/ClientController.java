@@ -17,7 +17,7 @@ public class ClientController {
     private RestTemplate restTemplate;
     @RequestMapping("/getMsg")
     public String getMessage(){
-
+//000000000000000000000000
        String msg= restTemplate.getForObject("http://PRODUCT/msg",String.class);
         return msg;
     }
