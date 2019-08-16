@@ -9,7 +9,6 @@
         <option value="$PROJECT_DIR$/product/client/pom.xml" />
         <option value="$PROJECT_DIR$/product/common/pom.xml" />
         <option value="$PROJECT_DIR$/product/pom.xml" />
-        <option value="$PROJECT_DIR$/product-test/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-test/pom.xml" />
         <option value="$PROJECT_DIR$/order/pom.xml" />
         <option value="$PROJECT_DIR$/order/server/pom.xml" />

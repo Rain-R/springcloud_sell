@@ -7,6 +7,13 @@ spring:
         enabled: true
         service-id: CONFIG
       profile: dev
+    stream:
+      bindings:
+        message:
+         group: proudct
+         contentType: applicaton/json
+
+
 eureka:
   client:
     service-url:
